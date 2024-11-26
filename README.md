@@ -8,7 +8,7 @@ Store Layout Planning
 Product Recommendations 
 Cross-Selling Strategies 
 Pricing & Sales Strategies
-# 
+# Key concepts
 ## Support
 Percentage of transactions that include two specific products \
 ![Support formula]![image](https://github.com/user-attachments/assets/315442f4-f57c-4a0c-a19f-f8948a010ee5)
