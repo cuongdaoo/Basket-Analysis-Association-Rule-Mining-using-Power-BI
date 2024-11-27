@@ -45,6 +45,8 @@ This compares joint occurrence to independent occurrence probabilities.
   <img src="https://github.com/user-attachments/assets/3e66de8b-955f-447b-8bed-89cdc709c8e3" alt="mô tả" width="1000">
 </div>
 
+## 1. Building Process
+
 **Unpivot**
 <div align="center">
   <img src="https://github.com/user-attachments/assets/82fe6b31-c16b-4544-9b35-759b9650bace" alt="mô tả" width="1000">
@@ -104,6 +106,11 @@ var SupProd2= COUNTROWS(FILTER(Groceries,Groceries[Products]=prod2))/ [Total tra
 RETURN
 'Basket Analyst'[Support Basket]/(SupProd1*SupProd2)
 ```
+## 2. Analyst
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/0a632ee9-d078-4695-bc66-3e1b897a3d70" alt="mô tả" width="1000">
+</div>
+
 
 
 
