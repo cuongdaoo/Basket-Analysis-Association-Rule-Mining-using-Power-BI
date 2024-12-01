@@ -18,7 +18,7 @@ Pricing & Sales Strategies
 1. **Support**:  
    - Measures how frequently an itemset appears in the dataset.  
    - Formula:
-$$ \text{Support(A)} = \frac{\text{Number of transactions containing A}}{\text{Total number of transactions}} $$
+$$\text{Support(A)} = \frac{\text{Number of transactions containing A}}{\text{Total number of transactions}}$$
 
    - Higher values mean the itemset is more frequent.
 
