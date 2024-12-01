@@ -41,9 +41,8 @@ Like "Sliced ​​Cheese" and "Sausage" are smaller sized products that appear 
 # 2.Detailed analysis of product pairs
 By combining **network diagrams**, **scatter plot** and **table data** for deeper analysis:
 
-By combining **network diagrams**, **support maps** and **table data** for further analysis:
 
-### **2.1. Product Pairs with Strong Influence**
+## **2.1. Product Pairs with Strong Influence**
 
 Product Pairs with High **Lift (Lift > 3):**
 
@@ -54,8 +53,7 @@ Product Pairs with High **Lift (Lift > 3):**
 - **Frozen Vegetables – Chicken (3.31):** This combination habit reflects the convenience of customers with frozen products.
 
 ---
-
-### **2.2. Product Pairs with High Support (Support > 1.5%)**
+## **2.2. Product Pairs with High Support (Support > 1.5%)**
 
 Product Pairs with Significant **Sum of Support**:
 
@@ -69,7 +67,7 @@ Low Support Product Pairs with **High Lift (>3)**:
 
 ---
 
-### **2.3. Product Pairs to Focus on Growth**
+## **2.3. Product Pairs to Focus on Growth**
 
 Product Pairs with **low support (<1%) but good Lift (>2.5):**
 
@@ -89,3 +87,28 @@ Product Pairs with **low support (<1%) but good Lift (>2.5):**
 
 - **Frozen Vegetables – Chicken:** Stands out with a high Lift (>3.3), should focus on cross-buying in promotions.
 
+# **4. Đề xuất chiến lược kinh doanh**
+
+## **4.1. Tập trung tăng trưởng doanh thu:**
+
+- **Nhóm rau củ:**  
+
+   - Đảm bảo trưng bày **Root Vegetables**, **Frozen Vegetables**, và các loại rau củ khác gần nhau tại cửa hàng do tỷ lệ liên kết và hỗ trợ cao.  
+
+   - Tạo gợi ý mua thêm (cross-sell) giữa **Root Vegetables** và các sản phẩm đi kèm như **Herbs** & **Onions**.
+
+     
+
+- **Nhóm sữa và bơ:**  
+
+   - Xây dựng các khuyến mãi combo hoặc khu vực chung cho **Yogurt – Curd – Whipped/Sour Cream** để thu hút khách hàng.
+
+   - Gợi ý thêm **Cream Cheese** khi khách hàng chọn **Yogurt**.
+
+- **Sản phẩm đông lạnh:**  
+
+   - Khuyến mãi tiết kiệm nhóm **Frozen Vegetables** với protein như **Chicken** và **Butter** nhằm tăng Lift.
+
+## **4.2. Phát triển nhóm nhỏ nhưng tiềm năng:**
+
+- **Nhóm Berries và Whipped/Sour Cream:** Chúng có Lift cao, nhưng cần tăng tỷ lệ mua hàng thông qua marketing gợi ý các món ăn hoặc công thức kết hợp.
