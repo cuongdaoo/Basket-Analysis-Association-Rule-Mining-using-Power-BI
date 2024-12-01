@@ -93,19 +93,19 @@ Product Pairs with **low support (<1%) but good Lift (>2.5):**
 
 - **Vegetables:**
 
-- Ensure **Root Vegetables**, **Frozen Vegetables**, and other vegetables are displayed close together in the store due to high linkage and support rates.
+  - Ensure **Root Vegetables**, **Frozen Vegetables**, and other vegetables are displayed close together in the store due to high linkage and support rates.
 
-- Create cross-sell suggestions between **Root Vegetables** and accompanying products such as **Herbs** & **Onions**.
+  - Create cross-sell suggestions between **Root Vegetables** and accompanying products such as **Herbs** & **Onions**.
 
 - **Milk and Butter:**
 
-- Create combo promotions or common areas for **Yogurt – Curd – Whipped/Sour Cream** to attract customers.
+  - Create combo promotions or common areas for **Yogurt – Curd – Whipped/Sour Cream** to attract customers.
 
-- Suggest adding **Cream Cheese** when customers choose **Yogurt**.
+  - Suggest adding **Cream Cheese** when customers choose **Yogurt**.
 
 - **Frozen Products:**
 
-- Save promotion for **Frozen Vegetables** group with proteins such as **Chicken** and **Butter** to increase Lift.
+  - Save promotion for **Frozen Vegetables** group with proteins such as **Chicken** and **Butter** to increase Lift.
 
 ## 4.2. Developing small but potential groups:
 
