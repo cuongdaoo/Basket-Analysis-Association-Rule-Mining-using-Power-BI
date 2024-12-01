@@ -87,28 +87,26 @@ Product Pairs with **low support (<1%) but good Lift (>2.5):**
 
 - **Frozen Vegetables – Chicken:** Stands out with a high Lift (>3.3), should focus on cross-buying in promotions.
 
-# **4. Đề xuất chiến lược kinh doanh**
+# 4. Business Strategy Proposal
 
-## **4.1. Tập trung tăng trưởng doanh thu:**
+## 4.1. Focus on Revenue Growth:
 
-- **Nhóm rau củ:**  
+- **Vegetables:**
 
-   - Đảm bảo trưng bày **Root Vegetables**, **Frozen Vegetables**, và các loại rau củ khác gần nhau tại cửa hàng do tỷ lệ liên kết và hỗ trợ cao.  
+- Ensure **Root Vegetables**, **Frozen Vegetables**, and other vegetables are displayed close together in the store due to high linkage and support rates.
 
-   - Tạo gợi ý mua thêm (cross-sell) giữa **Root Vegetables** và các sản phẩm đi kèm như **Herbs** & **Onions**.
+- Create cross-sell suggestions between **Root Vegetables** and accompanying products such as **Herbs** & **Onions**.
 
-     
+- **Milk and Butter:**
 
-- **Nhóm sữa và bơ:**  
+- Create combo promotions or common areas for **Yogurt – Curd – Whipped/Sour Cream** to attract customers.
 
-   - Xây dựng các khuyến mãi combo hoặc khu vực chung cho **Yogurt – Curd – Whipped/Sour Cream** để thu hút khách hàng.
+- Suggest adding **Cream Cheese** when customers choose **Yogurt**.
 
-   - Gợi ý thêm **Cream Cheese** khi khách hàng chọn **Yogurt**.
+- **Frozen Products:**
 
-- **Sản phẩm đông lạnh:**  
+- Save promotion for **Frozen Vegetables** group with proteins such as **Chicken** and **Butter** to increase Lift.
 
-   - Khuyến mãi tiết kiệm nhóm **Frozen Vegetables** với protein như **Chicken** và **Butter** nhằm tăng Lift.
+## 4.2. Developing small but potential groups:
 
-## **4.2. Phát triển nhóm nhỏ nhưng tiềm năng:**
-
-- **Nhóm Berries và Whipped/Sour Cream:** Chúng có Lift cao, nhưng cần tăng tỷ lệ mua hàng thông qua marketing gợi ý các món ăn hoặc công thức kết hợp.
+- **Bers and Whipped/Sour Cream Group:** They have high Lift, but need to increase purchase rate through marketing suggesting dishes or combined recipes.
