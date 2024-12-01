@@ -110,6 +110,7 @@ RETURN
 <div align="center">
   <img src="https://github.com/user-attachments/assets/0a632ee9-d078-4695-bc66-3e1b897a3d70" alt="mô tả" width="1000">
 </div>
+Go to my [Analyst and Recommendation](https://8weeksqlchallenge.com/case-study-2/)
 
 
 
