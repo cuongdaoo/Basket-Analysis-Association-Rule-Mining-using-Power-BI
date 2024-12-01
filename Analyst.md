@@ -79,7 +79,7 @@ Product Pairs with **low support (<1%) but good Lift (>2.5):**
 
 # **3. Combining Support & Lift Charts**
 
-- **Support Map Chart (Basket Analysis Map):**
+**Support Map Chart (Basket Analysis Map):**
 
 - **Root Vegetables – Other Vegetables:** Have the highest support rate (>4%) and average Lift (2.27), should continue to be positioned close together on the shelf.
 
