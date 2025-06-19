@@ -110,7 +110,7 @@ RETURN
 <div align="center">
   <img src="https://github.com/user-attachments/assets/0a632ee9-d078-4695-bc66-3e1b897a3d70" alt="mô tả" width="1000">
 </div>
-
+* 🔗 **Live Power BI Dashboard**: [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjFjMTgxMjEtNWZkYS00MTE3LTk0MTYtOWQ3Y2E2Yjc4NTU3IiwidCI6IjA0NjRjNWRlLTQzNmItNDJjMi05NzQ4LTc0NTZmNWQzYTU2NCIsImMiOjEwfQ%3D%3D)
 Go to my [Analyst and Recommendation](https://github.com/cuongdaoo/Basket-Analysis-Association-Rule-Mining-using-Power-BI/blob/main/Analyst.md)
 
 
